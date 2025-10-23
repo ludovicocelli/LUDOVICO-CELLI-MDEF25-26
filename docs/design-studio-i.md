@@ -5,7 +5,35 @@ hide:
 
 # Design Studio I
 
-Welcome to Design Studio I. This is your space to document your work, reflections, and projects for this course.
+In Design Studio I we're starting to get a hands on experience with the tools that can help us tackling the big challanges that design can solve.
+
+#1 EMBODIED CRITICISM / Act 01: position yourself
+
+
+In the first act of the embodied critism journey, we're asked to choose a topic that is really relevant for us and analyze it using the auto ethnographic method, doing a 1st person perspective research that can be expanded towards the others to create something meaningful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Overview
 
