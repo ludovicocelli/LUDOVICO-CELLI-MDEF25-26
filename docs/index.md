@@ -1,5 +1,6 @@
-## Welcome
+## Ludovico Celli
 
-![](../images/perezoso.jpg)
+![IMG_7137](https://github.com/user-attachments/assets/f4cf3e2e-8b87-4ef1-852a-a90f054ff96d)
 
-This is Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+HI! Welcome to my digital space.
