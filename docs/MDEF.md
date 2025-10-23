@@ -10,7 +10,6 @@ This is your dedicated space for MDEF-related content. You can add information a
 - Projects
 - Resources
 - And more...
-- testing
 
 ## Getting Started
 
