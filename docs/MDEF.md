@@ -1,8 +1,6 @@
 # MDEF
 
-Welcome to the MDEF (Master in Design for Emergent Futures) section.
-
-This is your dedicated space for MDEF-related content. You can add information about:
+Ciao
 
 - Program overview
 - Course materials
