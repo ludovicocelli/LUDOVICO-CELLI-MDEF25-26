@@ -12,10 +12,9 @@ In Design Studio I we're starting to get a hands on experience with the tools th
 
 In the first act of the embodied critism journey, we're asked to choose a topic that is really relevant for us and analyze it using the auto ethnographic method, doing a 1st person perspective research that can be expanded towards the others to create something meaningful.
 
-<video width="100%" controls>
-  <source src="videos/Celli_Ludovico_someoneelsesdream.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8GBkJcQla-0" title="Design Studio I - Embodied Criticism Act 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 
