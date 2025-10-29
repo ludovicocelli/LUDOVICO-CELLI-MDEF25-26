@@ -5,16 +5,18 @@ hide:
 
 # Living with your own ideas
 
-Welcome to Living with your own ideas. This is your space to document your work, reflections, and projects for this course.
+To become the best version of myself is to help the others
 
-## Overview
+01/BACKSENSE
 
-Add your course overview and objectives here.
+![Backsense 1](images/backsense1.jpg)
 
-## Projects
+![Backsense 2](images/backsense2.jpg)
 
-Document your projects and assignments here.
+![Backsense 3](images/backsense3.jpg)
 
-## Reflections
+<video width="100%" controls>
+  <source src="videos/BackSense.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-Share your thoughts and learnings from this course.
