@@ -15,8 +15,3 @@ To become the best version of myself is to help the others
 
 ![Backsense 3](images/backsense3.jpg)
 
-<video width="100%" controls>
-  <source src="videos/BackSense.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
