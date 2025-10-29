@@ -19,9 +19,9 @@ To become the best version of myself is to help the others
 
 02/NECKSAFE
 
-![Necksafe 1](images/Necksafe1.jpg)
+<img src="images/Necksafe1.jpg" alt="Necksafe 1" style="width: 100%; height: auto;">
 
-![Necksafe 2](images/Necksafe2.jpg)
+<img src="images/Necksafe2.jpg" alt="Necksafe 2" style="width: 100%; height: auto;">
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/O_bGadv959I" frameborder="0" allowfullscreen></iframe>
 
