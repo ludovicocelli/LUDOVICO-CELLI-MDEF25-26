@@ -16,7 +16,16 @@ I approached the question "what is it to be the best version of myself?" trying 
 
 
 
-01/BACKSENSE
+
+
+
+
+
+
+
+
+
+**01/BACKSENSE**
 
 
 Backsense is a hair clip that with embedded technology components is able to detect presence within a range of 10-15 meters. By being placed on the back of the head, the object function as an eye on the back: in case the infrared rays detect human presence within the said range, the object will vibrate, alerting the user, who can check his surroundings to swee if a danger is coming or not. A gps is also embedded inside the clip, allowing a third person to know the location of the user in case of danger, as well as an emergency button in order to alert a police station.
@@ -44,7 +53,7 @@ Backsense is a hair clip that with embedded technology components is able to det
 
 
 
-02/NECKSAFE
+**02/NECKSAFE**
 
 
 Necksafe is a necklace that increases safety at night, being equipped with many functions. The gps combined with a camera get activated by entering in emergency mode and another button activates the pepper spray function to neutralize the aggressor. 
