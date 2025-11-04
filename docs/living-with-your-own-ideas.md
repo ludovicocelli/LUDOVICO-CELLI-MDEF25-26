@@ -11,7 +11,7 @@ hide:
 
 
 
-I approached the question "what is it to be the best version of myself?" trying to think differently, and I came to the reflection that to be the best version of myself is to help the others out. That's why I prototyped Backsense and Necksafe, two objects that are meant to increase the security at night, specially for women that may unfortunately face dangerous situation at night.
+I approached the question "what is it to be the best version of myself?" trying to think differently, and I came to the reflection that to be the best version of myself for me is to help the others out. That's why I prototyped Backsense and Necksafe, two objects that are meant to increase the security at night, specially for women that may unfortunately face dangerous situation at night.
 
 
 
@@ -79,7 +79,9 @@ Necksafe is a necklace that increases safety at night, being equipped with many 
 
 **Day 02/ "To become something else"**
 
-*To become a pollinator*
+*To become a medium for pollinators*
+
+In deciding my prosthesis following the statement "to become something else", I asked myself how we as human species can collaborate to live in symbiosis with other species, trying to achieve a perfect balance where we give to other species just as much as we take from them. I immediately thought about the pollinators, their crucial importance for our ecosystem and the fact that they're being endangered by the humans' activities. Thus I decided to design a head prothesis that would be able to host pollinators' favourite plants like lavander, rosemary, calendula and so on. By wearing this prosthesis, humans themselves would be a space for pollinators to thrive, gently serving them as much as they serve us.
 
 
 
