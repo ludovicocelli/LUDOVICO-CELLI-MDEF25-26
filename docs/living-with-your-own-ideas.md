@@ -67,7 +67,7 @@ Necksafe is a necklace that increases safety at night, being equipped with many 
 ![Necksafe2](https://github.com/user-attachments/assets/1d4ba9cd-114f-41ef-b550-5631a42cdead)
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/O_bGadv959I" frameborder="0" allowfullscreen></iframe>
+<iframe width="65%" height="315" src="https://www.youtube.com/embed/O_bGadv959I" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -80,6 +80,7 @@ Necksafe is a necklace that increases safety at night, being equipped with many 
 **Day 02/ "To become something else"**
 
 *To become a pollinator*
+
 
 
 ![alt text](images/Side_sx.jpg)
