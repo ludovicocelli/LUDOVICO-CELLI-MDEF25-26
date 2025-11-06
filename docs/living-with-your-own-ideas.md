@@ -99,4 +99,46 @@ In deciding my prosthesis following the statement "to become something else", I 
 
 
 
+**Day 03/ "How do I want to be perceived?"**
+
+
+*To only reveal what I want, to not be perceived, to be fully perceived*
+
+Being perceived by the others is an experience that we all go through, but how does that makes us feel? Depending on certain factors, being observed generate in us feelings that might change completely from a situation to another. From a space to another one, from the presence of certain persons to others, from a mood to a different one, the way I want to be perceived varies a lot. That's what I wanted to communicate while performing during the 45 minutes I've acted as somebody being followed by an unknown investigator from my class; I decided to use three different objects to represent my ideas, one every 15 minutes. 
+
+*To only reveal what I want*
+
+ At first I created a partial shield that was covering my face with a net: there are times where I want to show only the parts of me that I feel like allowing the others to see and nothing more, I'm the one who decides what they can see and what they can't, I have control over my image and how this can be perceived, I select the parts of myself, aesthetic or internal, that people can experience.
+
+
+
+![alt text](griglia.jpeg)
+
+
+
+
+*To not be perceived*
+
+There are times where showing myself just doesn't feel right, and in a the world of today it's hard to take a position, stand for yourself and decide that you're not gonna share your image, being it digital or physical. But firmly denying the share of ourselves is as hard as it is important for our wellbeing, being able to hide and decide to not show any part of us is part of taking care of ourselves.
+
+
+
+![alt text](NeroVestito.JPG)
+
+
+
+
+
+
+
+
+
+
+*To be fully perceived*
+
+Finally, to act the last chapter of my performance, I took a metal made object and use it to reflect the sun on my face, to fully let the others see me. Those are the times I fully wanna be perceived, where I allow myself to be seen in all my details, in all my shades, in my vulnerability and in my strength. That's when I embrace being part of a bigger ensamble and allow myself to transparently share my image. 
+
+
+
+
 
