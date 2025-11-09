@@ -115,7 +115,7 @@ In deciding my prosthesis following the statement "to become something else", I 
 <iframe 
   width="100%" 
   height="315" 
-  src="https://youtu.be/wKV1Tlh6P_4" 
+  src="https://www.youtube.com/embed/wKV1Tlh6P_4" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
