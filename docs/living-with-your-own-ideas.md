@@ -59,7 +59,7 @@ Backsense is a hair clip that with embedded technology components is able to det
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   allowfullscreen>
 </iframe>
-https://youtube.com/shorts/
+
 
 
 **02/NECKSAFE**
