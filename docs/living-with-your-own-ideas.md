@@ -147,9 +147,12 @@ There are times where showing myself just doesn't feel right, and in a the world
 
 Finally, to act the last chapter of my performance, I took a metal made object and use it to reflect the sun on my face, to fully let the others see me. Those are the times I fully wanna be perceived, where I allow myself to be seen in all my details, in all my shades, in my vulnerability and in my strength. That's when I embrace being part of a bigger ensamble and allow myself to transparently share my image. 
 
+[fully_perceived.jpg](images/fully_perceived.jpg)
 
 
-![alt text](fully_perceived.jpg)
+
+
+
 
 
 
