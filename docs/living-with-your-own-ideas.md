@@ -32,23 +32,22 @@ Backsense is a hair clip that with embedded technology components is able to det
 
 
 
-![alt text](backsense3.jpg)
+![backsense3](backsense3.jpg)
 
 
 
 
-![alt text](backsense2.jpg)
+![backsense2](backsense2.jpg)
 
 
 
 
-![alt text](backsense1.jpg)
+![backsense1](backsense1.jpg)
 
 
 
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/BvNJNM0Esbg" frameborder="0" allowfullscreen></iframe>
 
 
 <iframe 
@@ -104,7 +103,7 @@ In deciding my prosthesis following the statement "to become something else", I 
 
 
 
-![alt text](images/Side_sx.jpg)
+![pollinator_sx](images/Side_sx.jpg)
 
 
 
@@ -113,7 +112,7 @@ In deciding my prosthesis following the statement "to become something else", I 
 
 
 
-![alt text](images/Side_dx.jpg)
+![pollinator_dx](images/Side_dx.jpg)
 
 
 
@@ -147,7 +146,7 @@ Being perceived by the others is an experience that we all go through, but how d
 
 
 
-![alt text](griglia.jpeg)
+![only_what_I_want](griglia.jpeg)
 
 
 
@@ -158,7 +157,7 @@ There are times where showing myself just doesn't feel right, and in a the world
 
 
 
-![alt text](NeroVestito.JPG)
+![to_not_be](NeroVestito.JPG)
 
 
 
@@ -177,7 +176,7 @@ Finally, to act the last chapter of my performance, I took a metal made object a
 
 
 
-![alt text](fully.perceived.jpg)
+![to_be_fully](fully.perceived.jpg)
 
 
 
