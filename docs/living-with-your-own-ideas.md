@@ -108,6 +108,13 @@ In deciding my prosthesis following the statement "to become something else", I 
 
 
 
+
+
+
+
+<iframe width="100%" height="315" src="https://youtu.be/wKV1Tlh6P_4" frameborder="0" allowfullscreen></iframe>
+
+
 **Day 03/ "How do I want to be perceived?"**
 
 
@@ -147,21 +154,14 @@ There are times where showing myself just doesn't feel right, and in a the world
 
 Finally, to act the last chapter of my performance, I took a metal made object and use it to reflect the sun on my face, to fully let the others see me. Those are the times I fully wanna be perceived, where I allow myself to be seen in all my details, in all my shades, in my vulnerability and in my strength. That's when I embrace being part of a bigger ensamble and allow myself to transparently share my image. 
 
-[fully_perceived.jpg](images/fully_perceived.jpg)
+
+
+
+
+![alt text](fully.perceived.jpg)
 
 
 
 
 
 
-
-
-<iframe 
-  width="315" 
-  height="560" 
-  src="https://youtube.com/shorts/oU1YP47pvT8?feature=share" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
