@@ -11,7 +11,7 @@ hide:
 
 
 
-I approached the question "what is it to be the best version of myself?" trying to think differently, and I came to the reflection that to be the best version of myself for me is to help the others out. That's why I prototyped Backsense and Necksafe, two objects that are meant to increase the security at night, specially for women that may unfortunately face dangerous situation at night.
+I approached the question "what is it to be the best version of myself?" trying to think differently, and I came to the reflection that to be the best version of myself for me is to help the others out. That's why I prototyped Backsense and Necksafe, two objects that are meant to increase the security at night, specially for women that may unfortunately face dangerous situation.
 
 
 
@@ -28,7 +28,7 @@ I approached the question "what is it to be the best version of myself?" trying 
 **01/BACKSENSE**
 
 
-Backsense is a hair clip that with embedded technology components is able to detect presence within a range of 10-15 meters. By being placed on the back of the head, the object function as an eye on the back: in case the infrared rays detect human presence within the said range, the object will vibrate, alerting the user, who can check his surroundings to swee if a danger is coming or not. A gps is also embedded inside the clip, allowing a third person to know the location of the user in case of danger, as well as an emergency button in order to alert a police station.
+Backsense is a hair clip that with embedded technology components is able to detect presence within a range of around 10 meters. By being placed on the back of the head, the object function as an eye on the back: in case the infrared rays detect human presence within the said range, the object will vibrate, alerting the user, who can check his surroundings to see if a danger is coming or not. A gps is also embedded inside the clip, allowing a third person to know the location of the user in case of danger, as well as an emergency button in order to alert a police station.
 
 
 
@@ -99,7 +99,7 @@ Necksafe is a necklace that increases safety at night, being equipped with many 
 
 *To become a medium for pollinators*
 
-In deciding my prosthesis following the statement "to become something else", I asked myself how we as human species can collaborate to live in symbiosis with other species, trying to achieve a perfect balance where we give to other species just as much as we take from them. I immediately thought about the pollinators, their crucial importance for our ecosystem and the fact that they're being endangered by the humans' activities. Thus I decided to design a head prothesis that would be able to host pollinators' favourite plants like lavander, rosemary, calendula and so on. By wearing this prosthesis, humans themselves would be a space for pollinators to thrive, gently serving them as much as they serve us.
+In deciding my prosthesis following the statement "to become something else", I asked myself how we as human species can collaborate to live in symbiosis with other species, trying to achieve a perfect balance where we give to other species just as much as we take from them. I immediately thought about the pollinators, their crucial importance for our ecosystem and the fact that they're being endangered by the humans' activities, specially in the city. Thus I decided to design a head prothesis that would be able to host pollinators' favourite plants like lavander, rosemary, calendula and so on. By wearing this prosthesis, humans themselves would become a space for pollinators to thrive, gently serving them as much as they serve us.
 
 
 
@@ -170,7 +170,7 @@ There are times where showing myself just doesn't feel right, and in a the world
 
 *To be fully perceived*
 
-Finally, to act the last chapter of my performance, I took a metal made object and use it to reflect the sun on my face, to fully let the others see me. Those are the times I fully wanna be perceived, where I allow myself to be seen in all my details, in all my shades, in my vulnerability and in my strength. That's when I embrace being part of a bigger ensamble and allow myself to transparently share my image. 
+Finally, to act the last chapter of my performance, I took a metal made object and used it to reflect the sun on my face, to fully let the others see me. Those are the times I fully wanna be perceived, where I allow myself to be seen in all my details, in all my shades, in my vulnerability and in my strength. That's when I embrace being part of a bigger ensamble and allow myself to transparently share my image. 
 
 
 
@@ -182,6 +182,7 @@ Finally, to act the last chapter of my performance, I took a metal made object a
 
 
 **Day 03/ Investigation**
+
 
 
 
