@@ -149,5 +149,7 @@ Finally, to act the last chapter of my performance, I took a metal made object a
 
 
 
+![alt text](fully_perceived.jpg)
+
 
 
