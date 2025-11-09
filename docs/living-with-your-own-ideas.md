@@ -181,5 +181,23 @@ Finally, to act the last chapter of my performance, I took a metal made object a
 
 
 
+**Day 03/ Investigation**
+
+
+
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/J7l2b6bj0iY" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+
+
+
+
+
 
 
