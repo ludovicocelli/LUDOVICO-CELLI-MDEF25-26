@@ -1,4 +1,9 @@
-# Unpacking tech systems
+---
+hide:
+    - toc
+---
+
+# **Unpacking tech systems**
 
 Here I upload the materials
 
