@@ -1,9 +1,6 @@
----
-hide:
-    - toc
----
+# *Unpacking tech systems*
 
-**Unpacking tech systems**
+
 
 ![alt text](Topview.jpg)
 
