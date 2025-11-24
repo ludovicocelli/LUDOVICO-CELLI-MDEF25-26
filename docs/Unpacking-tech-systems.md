@@ -19,3 +19,6 @@ We decided to choose a resin 3d printer as our object and begin disassembling it
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   allowfullscreen>
 </iframe>
+
+
+{%youtube Rxf9oHnP9bQ %} 
