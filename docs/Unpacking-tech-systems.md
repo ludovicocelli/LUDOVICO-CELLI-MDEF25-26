@@ -3,24 +3,6 @@ hide:
     - toc
 ---
 
-# **Unpacking tech systems**
-
-For this intensive 2 weeks course, we've been given a random object to disassemble. The goak for the first week was to analyze and sort all the mechanical, electronical and digital components of the object.
-We decided to choose a resin 3d printer as our object and begin disassembling it. 
-
-![alt text](Topview.jpg)
-
-
-
-<iframe 
-  width="100%" 
-  height="315" 
-  src="https://www.youtube.com/embed/GTiUaODs8AA" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
 
 # Forensic Report: Anycubic Photon M3 Plus
 
@@ -195,7 +177,15 @@ The forensic process focused on the following goals:
 4.  **Reusability:** Assess parts for potential reuse.
 
 
-{%youtube Rxf9oHnP9bQ %}
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/Rxf9oHnP9bQ" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
 
 
@@ -264,5 +254,10 @@ The following questions and assumptions emerged during the investigation:
 3.  **Decommissioning:** Was the LCD panel issue the only reason for the decommissioning of the machine?
 4.  **Limitations:** The malfunctioning of the LCD panel limits initial functionality testing of the machine.
 5.  **Reuse:** How can non-functioning elements be reused? What are the reusable components?
+
+
+# Reflections on the first week (disassembling, analyzing and testing)
+
+
 
 ```
