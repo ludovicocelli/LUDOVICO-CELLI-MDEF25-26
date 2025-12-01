@@ -191,16 +191,44 @@ The forensic process focused on the following goals:
 
 ![20251119_101409](https://hackmd.io/_uploads/B1B1HyTxbl.jpg)
 
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/WVtmng8cars" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
-{%youtube WVtmng8cars %} 
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/GTiUaODs8AA" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
 
-{%youtube GTiUaODs8AA %}
+
+
+
+
 
 ![20251119_100357 (1)](https://hackmd.io/_uploads/Hyl1W4TgZl.jpg)
 
 
-{%youtube n87th8VxD7M %}
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/n87th8VxD7M" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
 
 
@@ -216,10 +244,29 @@ The following experiments were conducted to verify system health:
 | **4** | **Check Z-axis motor** | Build circuit using Barduino | **Positive:** The motor moves according to instruction. | ![IMG_4854(2)(3)](https://hackmd.io/_uploads/Hkagnj6g-g.gif)
 
 
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/BXXuW5yupQk" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
-{%youtube BXXuW5yupQk %}
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/wG7LlPi9xDE" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
-{%youtube wG7LlPi9xDE %}
+
+
+
 
 ![IMG_4845](https://hackmd.io/_uploads/Hyoz4NpgWx.jpg)
 
@@ -233,11 +280,26 @@ The following experiments were conducted to verify system health:
 
 
 
-{%youtube 6g9tLhtrouk %}
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/6g9tLhtrouk" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/AicaYTm4tPw" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
-
-{%youtube AicaYTm4tPw %}
 
 
 
