@@ -318,8 +318,6 @@ The following questions and assumptions emerged during the investigation:
 5.  **Reuse:** How can non-functioning elements be reused? What are the reusable components?
 
 
-# Reflections on the first week (disassembling, analyzing and testing)
-
 
 
 ```
