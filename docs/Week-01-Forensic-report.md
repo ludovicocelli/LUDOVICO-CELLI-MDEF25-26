@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-This are the outcome generated with my group during week 1, taken from the hackmd page we built.
+This are the outcomes generated with my group during week 1, taken from the hackmd page we built.
 
 # Forensic Report: Anycubic Photon M3 Plus
 
