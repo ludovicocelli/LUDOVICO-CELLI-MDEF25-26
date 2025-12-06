@@ -25,4 +25,33 @@ What I generally really appreciated and will take home with me of this two weeks
 
 
 
-ZINE IS WORK IN PROGRESS...COMING OUT THE 05/12/25 BEFORE 9PM 
+
+
+
+
+## Zine ##
+
+
+
+
+![alt text](IMG20251206115201.jpg)
+
+![alt text](IMG20251206115217.jpg)
+
+![alt text](IMG20251206115244.jpg)
+
+![alt text](IMG_20251206_115608.jpg)
+
+![alt text](IMG_20251206_115643.jpg)
+
+
+<iframe 
+  width="100%" 
+  height="315" 
+  src="https://www.youtube.com/embed/3dQWV0Ea89k" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+
