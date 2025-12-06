@@ -44,6 +44,10 @@ What I generally really appreciated and will take home with me of this two weeks
 
 ![alt text](IMG_20251206_115643.jpg)
 
+![alt text](First_Half.jpg)
+
+![alt text](Second_Half.jpg)
+
 
 <iframe 
   width="100%" 
