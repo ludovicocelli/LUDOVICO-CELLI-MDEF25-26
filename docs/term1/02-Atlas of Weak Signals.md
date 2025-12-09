@@ -7,16 +7,9 @@ hide:
 
 # Cards given #
 
+![alt text](AllCards.png)
 
-![alt text](<Rural Punk.png>)
 
-![alt text](<Restorative Justice.png>)
-
-![alt text](<Anarch- Governance.png>)
-
-![alt text](Avatars-1.png)
-
-![alt text](<Ancestral Knowledge.png>)
 
 # New Card Ideated From Us #
 
