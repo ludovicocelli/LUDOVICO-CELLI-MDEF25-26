@@ -13,8 +13,13 @@ hide:
 
 
 
-![alt text](<Someone else's privileges.jpg>)
+
+![alt text](<Someone else's privileges-1.jpg>)
 
 
 
-![alt text](<Someone else's privileges2.jpg>)
+![
+    
+    
+](<Someone else's privileges2-1.jpg>)
+
