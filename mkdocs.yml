@@ -16,7 +16,9 @@ nav:
       - Term 1:
         - Design Studio 0: design-studio-0.md
         - Design Studio I:
-          - Act 01: A01-Context.md
+          - Act 01 | Context: A01-Context.md
+          - Act 02 | Prototype: A02-Prototype.md
+          - Act 03 | Action: A03-Action.md
         - Living with your own ideas: living-with-your-own-ideas.md
         - AoWS: atlas-of-weak-signals.md
         - Fundamentals For Future Makers: fundamentals-future-makers.md
