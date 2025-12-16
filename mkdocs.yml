@@ -15,7 +15,8 @@ nav:
       - Overview: MDEF.md
       - Term 1:
         - Design Studio 0: design-studio-0.md
-        - Design Studio I: design-studio-i.md
+        - Design Studio I:
+          - Act 01: A01-Context.md
         - Living with your own ideas: living-with-your-own-ideas.md
         - AoWS: atlas-of-weak-signals.md
         - Fundamentals For Future Makers: fundamentals-future-makers.md
