@@ -10,3 +10,11 @@ hide:
   height="700"
   style="border: none;">
 </iframe>
+
+
+
+![alt text](<Someone else's privileges.jpg>)
+
+
+
+![alt text](<Someone else's privileges2.jpg>)
