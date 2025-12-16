@@ -5,16 +5,4 @@ hide:
 
 # Design Studio 0
 
-Welcome to Design Studio 0. This is your space to document your work, reflections, and projects for this course.
-
-## Overview
-
-Add your course overview and objectives here.
-
-## Projects
-
-Document your projects and assignments here.
-
-## Reflections
-
-Share your thoughts and learnings from this course.
+[text](<../../IAAC/Design Studio 0/LC_Design_studio_0_Statements.pdf>)
