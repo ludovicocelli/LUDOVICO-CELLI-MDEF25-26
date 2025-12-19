@@ -8,5 +8,5 @@ This page is an on-going changing document that resume the current state of the 
 **Current proposal**
 
 
-
+![alt text](Pictorial.jpg)
 
