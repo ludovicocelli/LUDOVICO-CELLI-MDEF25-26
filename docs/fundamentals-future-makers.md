@@ -87,4 +87,4 @@ Through experimentation, we learned how to adapt the recipe for larger volumes. 
 
 
 
-[text](images/IMG_7076.HEIC)
+![alt text](moldinmano.jpg)
