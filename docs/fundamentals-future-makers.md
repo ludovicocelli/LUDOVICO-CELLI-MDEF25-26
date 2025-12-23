@@ -33,12 +33,8 @@ We then created a 3d model shape that would be the actual shape of the final bio
 The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth.
 
 
-<div class="two-images">
-
-![](c:\Users\celli\Desktop\mdef-template\docs\3dprint.HEIC)
-![](c:\Users\celli\Desktop\mdef-template\docs\3dprint2.HEIC)
-
-</div>
+<img src="3dprint.HEIC" width="49%">
+<img src="3dprint2.HEIC" width="49%">
 
 
 
