@@ -14,6 +14,8 @@ hide:
 
 The first step was to obtain a laser cut box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve.
 
+![alt text](LASERCUTGIF.gif)
+
 
 
 
@@ -33,8 +35,8 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 
 <div class="two-images">
 
-![](images/3dprint.HEIC)
-![](images/3dprint2.HEIC)
+![](c:\Users\celli\Desktop\mdef-template\docs\3dprint.HEIC)
+![](c:\Users\celli\Desktop\mdef-template\docs\3dprint2.HEIC)
 
 </div>
 
