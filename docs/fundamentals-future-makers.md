@@ -35,9 +35,12 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 
 
 
-| | |
-|---|---|
-| ![](3dprint.HEIC) | ![](3dprint2.HEIC) |
+<iframe
+  src="carousel.html"
+  width="100%"
+  height="400"
+  frameborder="0">
+</iframe>
 
 
 
@@ -55,7 +58,7 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 <div class="slideshow">
   <button class="arrow left">&#10094;</button>
 
-  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\IMG20251219120721.jpg" class="slide active">
+  <img src="images\IMG20251219120721.jpg" class="slide active">
   <img src="c:\Users\celli\Desktop\mdef-template\docs\images\IMG_6978.HEIC" class="slide">
   <img src="c:\Users\celli\Desktop\mdef-template\docs\images\FINALMOLD.jpg" class="slide">
 
