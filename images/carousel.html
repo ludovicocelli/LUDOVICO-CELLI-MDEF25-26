@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Carousel</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: transparent;
+    }
+
+    .carousel {
+      position: relative;
+      max-width: 100%;
+      overflow: hidden;
+    }
+
+    .carousel img {
+      width: 100%;
+      display: none;
+    }
+
+    .carousel img.active {
+      display: block;
+    }
+
+    .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: none;
+      font-size: 24px;
+      cursor: pointer;
+      padding: 10px;
+    }
+
+    .arrow.left { left: 10px; }
+    .arrow.right { right: 10px; }
+  </style>
+</head>
+<body>
+
+<div class="carousel">
+  <button class="arrow left">&#10094;</button>
+
+  <img src="images/3dprint.png" class="active">
+  <img src="images/3dprint2.png">
+  
+
+  <button class="arrow right">&#10095;</button>
+</div>
+
+<script>
+  const images = document.querySelectorAll('.carousel img');
+  let index = 0;
+
+  document.querySelector('.arrow.right').onclick = () => {
+    images[index].classList.remove('active');
+    index = (index + 1) % images.length;
+    images[index].classList.add('active');
+  };
+
+  document.querySelector('.arrow.left').onclick = () => {
+    images[index].classList.remove('active');
+    index = (index - 1 + images.length) % images.length;
+    images[index].classList.add('active');
+  };
+</script>
+
+</body>
+</html>
