@@ -12,18 +12,31 @@ hide:
 
 ## Design process ##
 
-The first step was to 3d model a shape that would be the actual one of the final biomaterial artifact. We did this buy modeling this wavy and patterned tile in grasshopper, exploring shape possibilities.
+The first step was to obtain a laser cut box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve.
+
+
+
+
+
+
+
+
+
+We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. We did this by modeling this wavy and patterned tile in grasshopper, exploring shape possibilities.
 
 
 
 ![alt text](Tile_Video3.gif)
 
+The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth.
+
+
 <div class="two-images">
-  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\3dprint.HEIC" alt="Image 1">
-  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\3dprint2.HEIC" alt="Image 2">
+
+![](images/3dprint.HEIC)
+![](images/3dprint2.HEIC)
+
 </div>
-
-
 
 
 
