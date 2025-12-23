@@ -10,7 +10,9 @@ hide:
 
 
 
-## Design process ##
+### Design process ###
+
+# Laser Cutting #
 
 The first step was to obtain a laser cut box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve.
 
@@ -19,6 +21,8 @@ The first step was to obtain a laser cut box from mdf panels. We were given the 
 
 
 
+
+# 3d Printing #
 
 
 
@@ -34,7 +38,6 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 
 
 
-
 <iframe
   src="carousel.html"
   width="100%"
@@ -46,25 +49,3 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Slideshow</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<div class="slideshow">
-  <button class="arrow left">&#10094;</button>
-
-  <img src="images\IMG20251219120721.jpg" class="slide active">
-  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\IMG_6978.HEIC" class="slide">
-  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\FINALMOLD.jpg" class="slide">
-
-  <button class="arrow right">&#10095;</button>
-</div>
-
-<script src="script.js"></script>
-</body>
-</html>
