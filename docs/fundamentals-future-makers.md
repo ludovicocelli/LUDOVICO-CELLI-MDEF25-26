@@ -33,10 +33,11 @@ We then created a 3d model shape that would be the actual shape of the final bio
 The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth.
 
 
-<img src="3dprint.HEIC" width="49%">
-<img src="3dprint2.HEIC" width="49%">
 
 
+| | |
+|---|---|
+| ![](3dprint.HEIC) | ![](3dprint2.HEIC) |
 
 
 
