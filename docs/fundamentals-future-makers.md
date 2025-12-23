@@ -18,11 +18,15 @@ The first step was to 3d model a shape that would be the actual one of the final
 
 ![alt text](Tile_Video3.gif)
 
+<div class="two-images">
+  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\3dprint.HEIC" alt="Image 1">
+  <img src="c:\Users\celli\Desktop\mdef-template\docs\images\3dprint2.HEIC" alt="Image 2">
+</div>
 
-[text](images/3dprint.HEIC)
 
 
-[text](images/3dprint2.HEIC)
+
+
 
 
 <!DOCTYPE html>
