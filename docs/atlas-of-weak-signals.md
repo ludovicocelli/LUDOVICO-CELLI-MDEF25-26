@@ -28,7 +28,7 @@ hide:
 
 # Group Game (09.12.25) #
 
-![alt text](carddsss.jpg)
+![alt text](2carddsss.jpg)
 
 ![alt text](Screenshot_AOWS.png)
 
