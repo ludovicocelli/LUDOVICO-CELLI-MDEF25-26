@@ -25,3 +25,8 @@ hide:
   allowfullscreen>
 </iframe>
 
+
+# Group Game (09.12.25) #
+
+![alt text](Screenshot_AOWS.png)
+
