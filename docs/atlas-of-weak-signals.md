@@ -47,13 +47,13 @@ We started our whole thought process from the *Post Capitalist Care* card becaus
 
 ![alt text](schemacards.png)
 
-## Connecting weak signals to my research area (06.01.26) ## 
+# Connecting weak signals to my research area (06.01.26) # 
 
-WS01- * How often our decisions serve not just ourselves, but the greater good of society and the world's future? *
+WS01- *How often our decisions serve not just ourselves, but the greater good of society and the world's future?*
 
 This is a question that I often ask myself and a topic that I frequently think of when designing. In my research area developed during this three months this type of reasoning has been always considered underneath my actions, always present as a hidden structure holding all the elements of a bigger system together. 
 
-WS02- * The price of exploitation. [...] The blindest eyes are the ones that don't want to see. The profit is the focus point, what's underneath it can be avoided if you don't look down. Until the ground sinks under your feet. *
+WS02- *The price of exploitation. [...] The blindest eyes are the ones that don't want to see. The profit is the focus point, what's underneath it can be avoided if you don't look down. Until the ground sinks under your feet.*
 
 This was one of my pin referring to a part of the exhibition at Palau Victoria Eugenia. Particularly it was referring to the extractivism in the so called "Spanish Sahara" in  the 70s, where a huge 100 km conveyor belt was constructed to transport rocks in order to obtain minerals. During this transport the strong winds transported away toxic dust like Uranium, phoshoric acid gypsum and Thorium from the rocks being moved and started contaminating a big area. 
 In my research area I'm trying to develop ideas that go in the complete opposite direction of this way of thinking, putting the planet ahead of the individual's profit.
@@ -62,10 +62,10 @@ WS03- *How to critical think without believing that we're fucked*
 
 Sometimes it's hard to deal with the kind of topics like the one I'm working with and not lose hope about the future. You might put a lot of effort during months in developing something that goes towards the right direction and one afternoon you could read on the news that a multimillionaire did something that your actions probably could not compensate even if you repeated them for a whole lifetime. I guess that's another challange for the area I'm working on, not only for myself, but also for the broader public that I would like to involve in order to start a change: to always know that every small step in the right direction is important and even more relevant if shared by an always increasing amount of people, to believe that the result may not be visible in the immediate or kinda close future but that what you're doing is and will be relevant. 
 
-WS04- * The world is your playground. When spaces and more in general solutions to problems are not provided, the only way to solve those issues is to start an action from the bottom trough the mutual help of communities. *
-individualism
+WS04- *The world is your playground. When spaces and more in general solutions to problems are not provided, the only way to solve those issues is to start an action from the bottom trough the mutual help of communities.*
+
 This was another one of my pins in the exhibition and was inspired by a picture of two guys climbing in a city tunnel that they had previously arranged to be a climbing walls with some tools like metal rings placed into the concrete and more. I find this to be somehow connected to my project because in my exploration of new practices of consumption I've always considered the community as a very relevant and fundamental part of the change; trying to invert such a rooted tendency in the society cannot be done by just one individual, but it needs to be shared, supported and believed in by many. Communities, apart from being a group of people, share together more than individuality, but a common care about the space they inhabit, about the people that gravitate around it, about the activities that takes place in it and much more, that's why they're so relevant to me and to the research.
 
-WS05- * Man as both a creator and a destroyer *
+WS05- *Man as both a creator and a destroyer*
 
 I resonated a lot with this pin, given that this concept is something I always think about: humans are the only species so intelligent to be able to destroy themselves without noticing. We're the living paradox of a species that has been able to progress immensely in every field but that it's going against its own good because of greed and egoism. Endangering our own possibility to thrive destroying the environment that has so gently hosted us for thousands of years is something almost impossible to believe in, yet is truly happening under the eyes of everybody. In my research I'm trying to generate alternative futures where the preservation of our environment is not a periferical optional thing, but the most important requirement to ensure ourselves and other species a future.
