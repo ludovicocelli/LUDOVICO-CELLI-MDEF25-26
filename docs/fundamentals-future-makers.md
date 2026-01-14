@@ -20,15 +20,11 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-<img src="LASERCUTGIF.gif" width="80%">
-
-
-| |
-|---|
-| ![](LASERCUTGIF.gif) |
-
-
-| The first step to take in order to obtain the final artifact, was to work with laser cutting to get a box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve. Later on we would have discovered that this wasn't the best pattern in order to take off the silicone mold from the walls as it got quite stuck to the walls; nonetheless with quite some work we managed to do it. | ![](LASERCUTGIF.gif) |
+| ![](LASERCUTGIF.gif) | **Laser Cutting Process**  <br><br>
+Questo testo occupa la colonna di destra.
+Scrivi qui la descrizione del progetto,
+il processo, i materiali, ecc.
+|
 |---|---|
 
 
@@ -38,7 +34,7 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio as the software to communicate . This was one of my favorite stages of the process, as it aligned with our curiosity about using organic forms for mold-making applications.
+We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio as the software to communicate with the printers. This was one of our favorite stages of the process, as it aligned with our curiosity about designing for mold-making applications.
 
 
 
