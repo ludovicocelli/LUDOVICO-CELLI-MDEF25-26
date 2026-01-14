@@ -14,9 +14,17 @@ hide:
 
 ## Laser Cutting ##
 
-The first step was to obtain a laser cut box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve.
+The first step to take in order to obtain the final artifact, was to work with laser cutting to get a box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve. Later on we would have discovered that this wasn't the best pattern in order to take off the silicone mold from the walls as it got quite stuck to the walls; nonetheless with quite some work we managed to do it.
 
 ![alt text](LASERCUTGIF.gif)
+
+
+
+
+
+| |
+|---|
+| ![](LASERCUTGIF.gif) |
 
 
 
