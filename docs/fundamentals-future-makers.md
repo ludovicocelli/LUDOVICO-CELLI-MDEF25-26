@@ -18,9 +18,12 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 ![Lasercut](LASERCUTGIF.gif)
 
+![lasercutparts](lasercut2-1.jpg)
+
+
 ![Walls](walls.PNG)
 
-![Lasercut](lasercut2.jpg)
+
 
 
 
