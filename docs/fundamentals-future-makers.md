@@ -23,7 +23,9 @@ The first step to take in order to obtain the final artifact, was to work with l
 <img src="LASERCUTGIF.gif" width="80%">
 
 
-
+| |
+|---|
+| ![](LASERCUTGIF.gif) |
 
 
 ## 3d Printing ##
@@ -32,7 +34,7 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio. This was one of my favorite stages of the process, as it aligned with our curiosity about using organic forms for mold-making applications.
+We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio as the software to communicate . This was one of my favorite stages of the process, as it aligned with our curiosity about using organic forms for mold-making applications.
 
 
 
