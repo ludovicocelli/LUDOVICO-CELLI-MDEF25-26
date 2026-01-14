@@ -20,13 +20,10 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-| ![](LASERCUTGIF.gif) | Questo paragrafo di testo scorre lungo tutto il lato destro della GIF.
-Il testo può essere lungo quanto vuoi, continuerà ad andare a capo
-automaticamente e resterà sempre allineato all’altezza dell’immagine.
-<br><br>
-Puoi aggiungere altri paragrafi, spiegazioni tecniche, descrizione del
-processo di laser cutting, materiali, tempi, ecc.
-|
+| ![](LASERCUTGIF.gif) | Prima riga di testo che sta a destra della GIF.<br>
+Seconda riga di testo che continua accanto all’immagine.<br>
+Terza riga di testo, sempre nella stessa colonna.<br><br>
+Nuovo paragrafo, ancora allineato all’immagine. |
 |---|---|
 
 
