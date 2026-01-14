@@ -27,6 +27,10 @@ Nuovo paragrafo, ancora allineato all’immagine. |
 |---|---|
 
 
+| SINISTRA | DESTRA che continua qui<br>ancora qui<br>e ancora qui |
+|---|---|
+
+
 ## 3d Printing ##
 
 
