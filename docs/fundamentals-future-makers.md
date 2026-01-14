@@ -20,11 +20,7 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-
-
-| |
-|---|
-| ![](LASERCUTGIF.gif) |
+<img src="LASERCUTGIF.gif" width="80%">
 
 
 
