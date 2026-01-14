@@ -79,6 +79,14 @@ Nuovo paragrafo, ancora allineato all’immagine. |
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html>
+<body>
+  <img src="LASERCUTGIF.gif">
+</body>
+</html>
+
 ## 3d Printing ##
 
 
