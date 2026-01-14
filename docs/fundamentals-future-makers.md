@@ -6,7 +6,7 @@ hide:
 # Fundamentals For Future Makers #
 
 
-![alt text](allmolds.jpg)
+![All objects](allmolds.jpg)
 
 
 
@@ -16,76 +16,15 @@ hide:
 
 The first step to take in order to obtain the final artifact, was to work with laser cutting to get a box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve. Later on we would have discovered that this wasn't the best pattern in order to take off the silicone mold from the walls as it got quite stuck to the walls; nonetheless with quite some work we managed to do it.
 
-![alt text](LASERCUTGIF.gif)
+![Lasercut](LASERCUTGIF.gif)
+
+![Walls](walls.PNG)
+
+![Lasercut](lasercut2.jpg)
 
 
 
-| ![](LASERCUTGIF.gif) | Prima riga di testo che sta a destra della GIF.<br>
-Seconda riga di testo che continua accanto all’immagine.<br>
-Terza riga di testo, sempre nella stessa colonna.<br><br>
-Nuovo paragrafo, ancora allineato all’immagine. |
-|---|---|
 
-
-| SINISTRA | DESTRA che continua qui<br>ancora qui<br>e ancora qui |
-|---|---|
-
-
-
-<!DOCTYPE html>
-<html lang="it">
-<head>
-  <meta charset="UTF-8">
-  <title>GIF + Testo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-    }
-
-    .wrap {
-      display: flex;
-      gap: 20px;
-      align-items: flex-start;
-      max-width: 900px;
-    }
-
-    .wrap img {
-      width: 240px; /* larghezza reale della GIF */
-      height: auto;
-    }
-
-    .wrap p {
-      margin: 0;
-    }
-  </style>
-</head>
-<body>
-
-<div class="wrap">
-  <img src="LASERCUTGIF.gif" alt="Laser cut process">
-
-  <p>
-    Questo paragrafo di testo scorre lungo tutto il lato destro
-    dell’immagine. Può essere lungo quanto vuoi e continuerà
-    automaticamente ad andare a capo mantenendosi affiancato
-    alla GIF.<br><br>
-
-    Qui puoi descrivere il processo di laser cutting, i materiali,
-    il concept del progetto, le fasi di produzione, ecc.
-  </p>
-</div>
-
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html>
-<body>
- <img src="images/LASERCUTGIF.gif" alt="Laser cut process">
-</body>
-</html>
 
 ## 3d Printing ##
 
@@ -97,21 +36,21 @@ We then created a 3d model shape that would be the actual shape of the final bio
 
 
 
-![alt text](Tile_Video3.gif)
+![3d gif](Tile_Video3.gif)
 
 The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth and rewarding.
 
 
-![alt text](3dprint.png)
+![3dprintedobj](3dprint.png)
 
-![alt text](3dprint2.png)
+![3dprintedobj2](3dprint2.png)
 
 
 ## CNC ##
 
 In this exercise, we were asked to create a hollow square as a placeholder for the final object. To maintain conceptual continuity with the previous steps, we integrated the mountain shape into the CNC-milled design. We prepared the toolpaths using RhinoCAM. 
 
-![alt text](cnc.gif)
+![cnc](cnc.gif)
 
 
 
@@ -121,7 +60,7 @@ In this exercise, we were asked to create a hollow square as a placeholder for t
 
 We placed the 3d printed part inside the mdf box and poured liquid silicone in it to obtain the negative shape of the finally desired artifact. Initially, we were concerned that the mold would not capture the finer details of the terrain. However, we learned that silicone is highly effective at reproducing small-scale details. The final mold successfully and accurately reflected the layered mountain geometry from the 3D print.
 
-![alt text](siliconpour.gif)
+![Pouring silicone](siliconpour.gif)
 
 
 ## Biomaterial artifact ##
@@ -131,11 +70,15 @@ To address this, we conducted several small-scale tests to better understand the
 
 
 
-![alt text](pourresin.gif)
+![Pouring resin](pourresin.gif)
 
 
-![alt text](silicmold.jpg)
+![Mold](silicmold.jpg)
 
+![Tryout](prove.PNG)
+
+
+![Fail](bioschifo.jpg)
 
 
 
@@ -144,12 +87,12 @@ Through experimentation, we learned how to adapt the recipe for larger volumes. 
 
 
 
-![alt text](sacamold.gif)
+![Sacamento](sacamold.gif)
 
 
 
-![alt text](FINALMOLD.jpg)
+![Final](FINALMOLD.jpg)
 
 
 
-![alt text](moldinmano.jpg)
+![Artifact](moldinmano.jpg)
