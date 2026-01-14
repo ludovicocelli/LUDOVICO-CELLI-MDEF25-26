@@ -83,7 +83,7 @@ Nuovo paragrafo, ancora allineato all’immagine. |
 <!DOCTYPE html>
 <html>
 <body>
-  <img src="LASERCUTGIF.gif">
+ <img src="images/LASERCUTGIF.gif" alt="Laser cut process">
 </body>
 </html>
 
@@ -93,13 +93,13 @@ Nuovo paragrafo, ancora allineato all’immagine. |
 
 
 
-We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio as the software to communicate with the printers. This was one of our favorite stages of the process, as it aligned with our curiosity about designing for mold-making applications.
+We then created a 3d model shape that would be the actual shape of the final biomaterial artifact. Due to the complexity of this geometry, Rhino alone was insufficient, so we used Grasshopper to generate and control the layered form. The final piece was printed using Bamboo Studio as the software to communicate with the printers. 
 
 
 
 ![alt text](Tile_Video3.gif)
 
-The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth.
+The result was pretty accurate and similar in reality to the 3d model, overall the process was super smooth and rewarding.
 
 
 ![alt text](3dprint.png)
@@ -109,7 +109,7 @@ The result was pretty accurate and similar in reality to the 3d model, overall t
 
 ## CNC ##
 
-In this exercise, we were asked to create a hollow square as a placeholder for a final object. To maintain conceptual continuity with the previous steps, we integrated the mountain shape into the CNC-milled design. We prepared the toolpaths using RhinoCAM. 
+In this exercise, we were asked to create a hollow square as a placeholder for the final object. To maintain conceptual continuity with the previous steps, we integrated the mountain shape into the CNC-milled design. We prepared the toolpaths using RhinoCAM. 
 
 ![alt text](cnc.gif)
 
