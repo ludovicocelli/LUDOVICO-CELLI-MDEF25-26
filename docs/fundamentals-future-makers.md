@@ -20,8 +20,12 @@ The first step to take in order to obtain the final artifact, was to work with l
 
 
 
-| ![](LASERCUTGIF.gif) | The first step to take in order to obtain the final artifact, was to work with laser cutting to get a box from mdf panels. We were given the outer walls but we designed the inside walls with a geometric pattern with a repeatedly increasing curve. Later on we would have discovered that this wasn't the best pattern in order to take off the silicone mold from the walls as it got quite stuck to the walls; nonetheless with quite some work we managed to do it.  <br><br>
-
+| ![](LASERCUTGIF.gif) | Questo paragrafo di testo scorre lungo tutto il lato destro della GIF.
+Il testo può essere lungo quanto vuoi, continuerà ad andare a capo
+automaticamente e resterà sempre allineato all’altezza dell’immagine.
+<br><br>
+Puoi aggiungere altri paragrafi, spiegazioni tecniche, descrizione del
+processo di laser cutting, materiali, tempi, ecc.
 |
 |---|---|
 
