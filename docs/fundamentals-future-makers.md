@@ -83,7 +83,7 @@ To address this, we conducted several small-scale tests to better understand the
 
 
 
-Through experimentation, we learned how to adapt the recipe for larger volumes. The filler (we used shrimp shells) played a crucial role in providing structural integrity, and although most ingredients were scaled proportionally, the alcohol—which dissolves the resin—needed to be increased only slightly, as excessive amounts made the mixture too liquid. Additionally, allowing the mixture to cool slightly before pouring helped the ingredients integrate more effectively.
+Through experimentation, we learned how to adapt the recipe for larger volumes. The filler (shrimp shells) played a crucial role in providing structural integrity, and although most ingredients were scaled proportionally, the alcohol —which dissolves the resin— needed to be increased only slightly, as excessive amounts made the mixture too liquid. Additionally, allowing the mixture to slightly cool before pouring helped the ingredients integrate more effectively. Finally managing to get to the final outcome of the project was very rewarding and worth all of the different struggles.
 
 
 
