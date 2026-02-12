@@ -5,22 +5,14 @@ hide:
 
 **COGNITIVE ORGIES**
 
-**Individual Post** (per student)
+**Individual Post**
 
-A personal reflective post where you look back at your experience during the week. Please make sure you. Reflect explicitly on your traces:
 
-Cognitive traces – moments where your way of thinking changed, you doubted an assumption, rewrote the question, or resisted the first plausible answer (human or AI).
-Moral traces – tensions and decisions in the group: distribution of work, use (or non‑use) of AI, moments that felt unfair, how you dealt with them.
-
-The cognitive orgies week has been as intense as interesting to me. Having to produce an outcome in such a short time brought some stress and tension but looking back at it I loved the process and what came out of it.
-Both me and my teammate, Melissa, were happy about the outcome and about what that allowed to learn during the days; for example trying to 3d print with clay was something that was fascinating the both of us and we realized that in this project would have made a lot of sense to actually do it we were very happy about it. 
 
 
 **Cognitive Traces**
 
-I wouldn't say that 
-
-
+I wouldn't say that me and my teammate changed too much our way of thinking as we were both on the same line of thinking from the beginning. Maybe some assumption that we doubted is that we need an industry level tools and skills to fabricate something that would actually make a change; we started the project being a bit worried that it would have been hard to 3d print with clay and build an actual artifact in such a short time but in the end we were happy taht we managed and reached a very good level of development given the time constraints.
 
 
 
@@ -31,8 +23,6 @@ I'd say that me and my teammate (Melissa) didn't have a lot of disagreement duri
 
 
 **Technical/Process Traces**
-
-Technical / process traces – things that broke or resisted, hacks, design/tech decisions that shaped the project.
 
 
 While developing the project, some things/parts broke and many resisted. 
@@ -58,4 +48,11 @@ Hacks:
 
 - To 3d print clay we had a compressor to give pressure into the plastic container of the material and we found out that the best pressure quantity was 0.8 bars.
 
-- 
+
+
+**General final reflection**
+
+The cognitive orgies week has been as intense as interesting to me. Having to produce an outcome in such a short amount of time brought some stress and tension, but looking back at it I totally loved the process and what came out of it.
+Both me and my teammate, Melissa, were happy about the outcome and what allowed us to learn during the days. It was very nice for us to be able to tackle a tangible problem that could have been dealed with some skills that were decently feasible to acquire in this intensive 4 days. As challanging as it was, we always had a positive mindset when working because we had the feeling that with our tutors we could have reached what we wanted and that's not to be given for granted. The only thing that I would maybe do differently is to arrive with a concept almost already defined at the first day, because I feel that it would allow for a much more developed final artifact. This time me and Melissa took a lot of time to define exactly what we wanted to build, and while it was surely important to aim in the right direction, I feel like we lost quite some time we could have used to work on the project itself.
+Apart from this, I was very happy that I was able to work with a hands on approach, since it's something that I personally lacked a lot with my previous degree that was very focused on digital and intangible outcomes. Getting dirty and trying to actually build things has been very meaningful to me and even though we didn't reach a full developed stage because of obvious time constraints, I could experience the process and I could see the fesasibilty of the project also in a further development stage.
+Getting to gain experience in 3d printing with clay was also very important for me, it was something that was fascinating me since I stepped inside IAAC main hall and finally I had the chance to do it even if in a smaller scale. Overall the course was very well structured and left me satisfied with the process of learning and with the outcome. About the outcome itself, me and Melissa are probably willing to develop it to a further stage, as we wanna see the effectiveness of it and its true potentiality and scalability: this four days have surely been a great spark to start a deeper exploration.
