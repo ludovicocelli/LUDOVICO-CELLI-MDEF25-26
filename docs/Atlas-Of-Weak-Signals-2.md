@@ -26,4 +26,4 @@ hide:
 # New Weak Signal CLuster #
 
 
-![alt text](aows2d-1.jpg)
+![alt text](aows2e-1.jpg)
