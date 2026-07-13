@@ -23,7 +23,7 @@ hide:
 
 ![alt text](aows2c-1.jpg)
 
-# New Weak Signal CLuster #
+# New Weak Signal Cluster #
 
 
 ![alt text](aows2fff-1.jpg)
